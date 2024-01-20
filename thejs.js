@@ -847,11 +847,11 @@ $(document).ready(function() {
   $('.newemailbutton').click(addSubReddit);
   main_inbox = makeFolder('Front Page');
   makeFolder('gaming');
-  makeFolder('pics');
+  makeFolder('italia');
   makeFolder('askreddit');
-  makeFolder('jokes');
-  makeFolder('funny');
-  makeFolder('iama');
+  makeFolder('italy');
+  makeFolder('italiapersonalfinance');
+  makeFolder('sffpc');
   makeFolder('wtf');
   $('#folder_FrontPage').parent().addClass('foldwraphi');
   folderClick('folder_FrontPage');
